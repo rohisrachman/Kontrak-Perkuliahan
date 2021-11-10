@@ -1,0 +1,15 @@
+buartlah sebuah program dari algoritma sebagai berikut :
+
+masukkan (m,n)
+r <- sisaPembagian (m,n)
+
+ULANG SELAMA =! 0r
+m <- n
+n <- r
+r <- sisaPembagian (m,n)
+while
+
+tampilkan (n)
+
+note : program ini digunakan untuk memperolah sisa pembagian m dan n dan hasilnya diletakkan pada variabel r
+
